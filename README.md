@@ -1,4 +1,4 @@
-# 📊 AnalystLab Africa - Data Analytics Internship Portfolio
+# 📊 AnalystLab Africa - Data Analytics
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,30&height=180&section=header&text=Data%20Analytics%20Internship&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
