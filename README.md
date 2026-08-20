@@ -1,4 +1,4 @@
-# 📊 AnalystLab Africa - Data Analytics Internship Portfolio
+# 📊 AnalystLab Africa - Data Analytics
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,30&height=180&section=header&text=Data%20Analytics%20Internship&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -24,7 +24,7 @@ Here is an overview of the key folders and projects included in this repository:
 | :--- | :--- |
 | **`MYSQL/`** | Advanced SQL queries, database management, and data manipulation scripts for relational data analysis. |
 | **`Power_Bi/`** | Interactive business intelligence dashboards (including *SuperStore Sale*) built for executive reporting and KPI tracking. |
-| **`week5/`** | Case study files and business analytics solutions (including *Bank Marketing* analytics). |
+| **`Bank Marketing /`** | Case study files and business analytics solutions (including *Bank Marketing* analytics). |
 | **`OnlineRetail.csv`** | Cleaned dataset and one-page summary report focused on e-commerce sales and transactional trends. |
 | **`netflix_titles.csv`** | Exploratory data analysis (EDA) project uncovering trends, content distribution, and patterns in Netflix movies and TV shows. |
 
